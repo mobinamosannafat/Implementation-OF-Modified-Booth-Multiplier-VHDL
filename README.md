@@ -18,7 +18,7 @@ For more details on these multipliers and to compare them, read the "COMPARISON 
 
 # Booth Multiplier and Modified Booth Multiplier
 
-The Modified Booth Multiplier using Pipeline has more hardware complexity than the Basic Booth Multiplier, despite being optimized to reduce the number of partial multiplications. Basic Booth Multiplie is implemented by only one module, while to implement Modified Booth Multiplier we need five modules. You can find implementations of this two algorithms in [Booth directory](./Booth). and [ModifiedBooth directory](./ModifiedBooth). For more details on Modified Booth Multiplier, read the "Implementation of Modified Booth Multiplier using Pipeline Technique on FPGA" in the [papers directory](./papers).
+The Modified Booth Multiplier using Pipeline has more hardware complexity than the Basic Booth Multiplier, despite being optimized to reduce the number of partial multiplications. Basic Booth Multiplie is implemented by only one module, while to implement Modified Booth Multiplier we need five modules. You can find implementations of this two algorithms in [Booth directory](./Booth) and [ModifiedBooth directory](./ModifiedBooth). For more details on Modified Booth Multiplier, read the "Implementation of Modified Booth Multiplier using Pipeline Technique on FPGA" in the [papers directory](./papers).
 
 # Steps of the proposed method to accelerate the Booth multiplication algorithm
 
